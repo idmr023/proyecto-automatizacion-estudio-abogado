@@ -1,9 +1,5 @@
 # proyecto-automatizacion-estudio-abogado
 
-Excelente continuación de la conversación. Has llegado al núcleo del asunto: la tecnología no es solo sobre herramientas, sino sobre cómo adaptarla a las personas. Este es un desafío de empatía y estrategia, y es un proyecto fantástico tanto para ayudar a tu papá como para tu portafolio.
-
-Aquí te presento un plan de acción completo, enfocado en el factor humano y en una implementación gradual para no generar rechazo.
-
 ### El Desafío Central: El Factor Humano
 
 Tu papá no rechaza la eficiencia, rechaza la disrupción. El cambio le cuesta porque su sistema actual, aunque ineficiente, es predecible y lo controla. La clave no es imponerle un sistema nuevo, sino **mejorar el que ya tiene sin que él sienta que está perdiendo el control o aprendiendo algo complejo**.
